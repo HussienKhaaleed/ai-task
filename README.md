@@ -28,7 +28,7 @@ AI-Task leverages Node.js + Express for the backend and integrates Meta AI, Chat
 3. [Task 3  ](#task-3)  
 
 
-# Ice Cream Teame 🍧 🍦
+# Ice Cream Team 🍧 🍦
 
 
 
