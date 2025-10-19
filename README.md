@@ -1,3 +1,22 @@
+<div align="center">
+
+# AI-Task 🚀
+
+** Intelligent Task Management with Node.js , Express and AI **
+
+[![Node.js](https://img.shields.io/badge/Node.js-v20-green.svg)](https://nodejs.org/)
+[![Meta AI](https://img.shields.io/badge/Meta%20AI-Powered-purple.svg)](https://ai.meta.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-Integrated-green.svg)](https://chat.openai.com/)
+[![Claude AI](https://img.shields.io/badge/Claude%20AI-Anthropic-orange.svg)](https://www.anthropic.com/claude)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+AI-Task leverages Node.js + Express for the backend and integrates Meta AI, ChatGPT, and Claude AI for smart task automation.
+
+</div>
+
 # ai-task
   
 ---
