@@ -2,7 +2,7 @@
   
 ---
 
-## 📌 Table of Contents
+## 📌 Table of Contents.
 
 1. [Task 1  ](#task-1)  
 2. [Task 2  ](#task-2)  
