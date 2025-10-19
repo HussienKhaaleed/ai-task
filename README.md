@@ -1,6 +1,6 @@
 # ai-task
 
-##Task2
+## Task2
 # Claude AI for Website Development: Technical Track Guide
 
 ## 1. Technical Track
