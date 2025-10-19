@@ -516,16 +516,40 @@ Want to build similar projects? Try Claude AI!
 
 ---
 
-## License
 
-This project is open source and available under the MIT License.
-
----
-
-## Contact
-
-For questions or suggestions, feel free to open an issue or contact the development team.
+## Task 3
 
 ---
 
-**Built with ❤️ using Claude AI for Website Development**
+## 🛠️ Recommended AI Tools for MERN Stack
+
+### 1. **Lovable (GPT Engineer)** ⭐ Best for Full-Stack
+- **Website:** https://lovable.dev
+- **Capabilities:** Frontend + Backend + Database
+- **Output:** React + Node.js + Express + MongoDB
+- **Features:** Real-time preview, deployment, iterations
+
+### 2. **Bolt.new (StackBlitz)**
+- **Website:** https://bolt.new
+- **Capabilities:** Full-stack applications
+- **Output:** Complete MERN projects
+- **Features:** In-browser development, instant preview
+
+### 3. **Cursor AI**
+- **Website:** https://cursor.sh
+- **Capabilities:** AI-powered code editor
+- **Output:** Any tech stack including MERN
+- **Features:** Code completion, debugging, refactoring
+
+### 4. **Claude (Artifacts)**
+- **Website:** https://claude.ai
+- **Capabilities:** Components, API design, database schemas
+- **Output:** React components, Express routes, MongoDB models
+- **Features:** Code explanation, best practices
+
+### 5. **GitHub Copilot**
+- **Website:** https://github.com/features/copilot
+- **Capabilities:** Code completion for entire MERN stack
+- **Output:** Context-aware code suggestions
+- **Features:** Works in VS Code, supports all MERN technologies
+
