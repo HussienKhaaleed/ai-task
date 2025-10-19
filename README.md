@@ -28,6 +28,18 @@ AI-Task leverages Node.js + Express for the backend and integrates Meta AI, Chat
 3. [Task 3  ](#task-3)  
 
 ---
+## Task 1
+
+# Zero-shot Prompt
+![Zero-shot Prompt](https://github.com/user-attachments/assets/11d89861-376b-4f0b-88ae-948687229b48)
+
+# Few-Shot Image Prompt
+![Few-Shot Image Prompt](https://github.com/user-attachments/assets/c2e78efe-57dd-4497-a240-5c760ef07571)
+
+# Refined Prompt
+![Refined Prompt](https://github.com/user-attachments/assets/b160c45a-ba31-4ca3-926d-0dd2e284692c)
+
+---
 
 ## Task 2
 # Claude AI for Website Development: Technical Track Guide
